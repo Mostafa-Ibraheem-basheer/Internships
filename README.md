@@ -60,7 +60,7 @@ Star and Watch the repo and pull new changes regularly.
 |[Trianglz](https://www.trianglz.com/) | Alexandria | Not Yet |:x:
 |[Tweag OpenSource Fellowship](https://lnkd.in/g5emM3SS) | Remote | Open source - <b> Paid Intern </b> - Deadlines on March 30 and September 30 |:x:
 |[Twitter Software Engineer Intern](https://jobs.smartrecruiters.com/ni/Twitter2/434ede5b-2775-4628-aee5-fbd573936a25-2022-engineering-internships-europe-middle-east-africa-emea-)| Worldwide | Open |:x:
-|[Webalo](https://docs.google.com/forms/d/e/1FAIpQLSe8VUD9P4rYlYtPX9Yv1fX3obQ1cdx79xw2Fttu6yJA7W0kcg/viewform) | Alexandria | Open |
+|[Webalo](https://docs.google.com/forms/d/e/1FAIpQLSe8VUD9P4rYlYtPX9Yv1fX3obQ1cdx79xw2Fttu6yJA7W0kcg/viewform) | Alexandria | Open |:x:
 
 
 
